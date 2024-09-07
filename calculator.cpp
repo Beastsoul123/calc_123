@@ -15,8 +15,8 @@ class addition{
         for( j=0;j<=n;j+=2){
             sum1+=j;
         }
-        cout<<"odd addition is "<<sum1<<endl;
-        cout<<"Total addition is "<<sum<<endl;
+        cout<<"odd addition:"<<sum1<<endl;
+        cout<<"Total addition is: "<<sum<<endl;
     }
 };
 
